@@ -1,6 +1,8 @@
 #Login Dropwizard Service
 This is a sample drop wizard used as a base for teaching new starts about integration and unit testing
 
+Test
+
 ##Build and Run
 ```
 git clone https://github.com/kainos-training/login-service.git
